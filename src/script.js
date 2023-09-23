@@ -1,4 +1,4 @@
-const publishableKey = "your-publishable-key"; // <- Add Publishable Key here
+const publishableKey = "pk_test_cmVsYXRpdmUtdG9tY2F0LTUzLmNsZXJrLmFjY291bnRzLmRldiQ"; // <- Add Publishable Key here
 
 const startClerk = async () => {
   const Clerk = window.Clerk;
